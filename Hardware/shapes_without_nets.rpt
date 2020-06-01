@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : WaterPurifier.brd                             )
+(    Software Version : 17.2S065                                      )
+(    Date/Time        : Tue May 26 15:30:47 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (61.2770 41.5985)  Net: Dummy Net
+	Point on shape: (51.8770 41.5985)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.

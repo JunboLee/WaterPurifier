@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : WaterPurifier.brd                             )
+(    Software Version : 17.2S065                                      )
+(    Date/Time        : Wed May 27 10:22:16 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 3
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (-24.4558 -31.7398)  Net: GND_SIGNAL
+	Point on shape: (-22.4644 -32.9303)  Net: GND_SIGNAL
+
+    Layer = BOTTOM
+	Point on shape: (37.9652 20.5440)  Net: 0

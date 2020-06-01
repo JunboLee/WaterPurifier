@@ -1,0 +1,6 @@
+2020-05-19T10:37:18 ===> "C:/Users/necd/Downloads/CONN-TH_VH3.96-2A_2020-05-19_10-31-39.dxf"
+2020-05-19T10:39:54 ===> "C:/Users/necd/Downloads/CONN-TH_VH3.96-2A_2020-05-19_10-31-39.dxf"
+2020-05-19T11:05:21 ===> "C:/Users/necd/Downloads/CONN-TH_XH2.54-4AW_2020-05-19_11-04-41.dxf"
+2020-05-19T11:24:46 ===> "C:/Users/necd/Downloads/CONN-TH_2P-P2.50_XH-2AW_2020-05-19_11-24-08.dxf"
+2020-05-19T11:43:43 ===> "C:/Users/necd/Downloads/CONN-TH_3P-P2.50_XH-3A_2020-05-19_11-42-16.dxf"
+2020-05-19T12:00:12 ===> "C:/Users/necd/Downloads/CONN-TH_3P-P3.96_CH3.96-3A_2020-05-19_11-59-34.dxf"
